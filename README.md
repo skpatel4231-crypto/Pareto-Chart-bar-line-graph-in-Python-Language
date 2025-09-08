@@ -54,6 +54,14 @@ Visualization:-
 
 
 
+Why Pareto + ABC Analysis Matters
+In inventory systems, 10–30% of items often account for 70–80% of the value.
+Traditional “equal attention” inventory management wastes resources.
+Pareto-based ABC analysis ensures managers focus where it matters most.
+This project provides both analytical clarity (numbers, percentages) and visual clarity (Pareto chart) to support informed decision-making.
+
+
+
 
 Future Enhancements:-
 Automate ABC classification for larger datasets.
