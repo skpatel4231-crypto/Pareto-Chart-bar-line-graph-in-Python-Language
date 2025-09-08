@@ -41,11 +41,7 @@ Apply ABC classification:-
 A items (P1–P3): Together make ~63% of value.
 B items (P4–P6): Together take cumulative to ~87%.
 C items (P7–P10): Contribute the remaining ~13%.
-# example 
-description
-#
-##
-###
+
 https://github.com/skpatel4231-crypto/Pareto-Chart-bar-line-graph-in-Python-Language/blob/main/Pareto_chart.png?raw=true
 
 
